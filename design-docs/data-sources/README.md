@@ -111,5 +111,5 @@ Level 5: Drug Information
 
 ## See Also
 
-- [Research Documents](../research/)
-- [Architecture Documents](../architecture/)
+- [Research Documents](../research/README.md)
+- [Architecture Documents](../architecture/README.md)

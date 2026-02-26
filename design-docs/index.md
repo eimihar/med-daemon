@@ -6,15 +6,15 @@ A fact-based medical chat system powered by LLM that provides accurate, cited me
 
 ## Index
 
-- [Architecture](./architecture/) - System architecture documents
-- [Tech Stack](./tech-stack/) - Technology choices and comparisons
-- [Data Sources](./data-sources/) - Medical data sources documentation
-- [Features](./features/) - Feature specifications
-- [API Design](./api-design/) - API endpoints and design
-- [Implementation](./implementation/) - Implementation phases
-- [Safety](./safety/) - Medical safety features
-- [Considerations](./considerations/) - Key considerations
-- [Research](./research/) - Research notes and findings
+- [Architecture](./architecture/README.md) - System architecture documents
+- [Tech Stack](./tech-stack/README.md) - Technology choices and comparisons
+- [Data Sources](./data-sources/README.md) - Medical data sources documentation
+- [Features](./features/README.md) - Feature specifications
+- [API Design](./api-design/README.md) - API endpoints and design
+- [Implementation](./implementation/README.md) - Implementation phases
+- [Safety](./safety/README.md) - Medical safety features
+- [Considerations](./considerations/README.md) - Key considerations
+- [Research](./research/README.md) - Research notes and findings
 
 ---
 
@@ -29,7 +29,7 @@ A fact-based medical chat system powered by LLM that provides accurate, cited me
 - **LLM**: OpenAI GPT-4 / Claude (start), Ollama (self-hosted)
 - **Embeddings**: text-embedding-3-large
 - **Vector DB**: Chroma (dev), Pinecone (cloud), pgvector (self-hosted)
-- **Details**: See [Tech Stack](./tech-stack/) documentation
+- **Details**: See [Tech Stack](./tech-stack/README.md) documentation
 
 ### Data Sources
 - **PubMed**: Academic literature
@@ -47,7 +47,7 @@ A fact-based medical chat system powered by LLM that provides accurate, cited me
 
 ## Research Documents
 
-See [`research/`](./research/) folder for detailed research:
+See [`research/`](./research/README.md) folder for detailed research:
 
 1. **rag-implementation.md** - RAG agent vs chain comparison
 2. **pubmed-api.md** - PubMed E-utilities API documentation

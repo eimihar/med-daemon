@@ -59,6 +59,6 @@ See [overview.md](./overview.md) for detailed Chroma documentation including:
 
 ## See Also
 
-- [Architecture Documents](../architecture/)
-- [Data Sources](../data-sources/)
-- [Research Documents](../research/)
+- [Architecture Documents](../architecture/README.md)
+- [Data Sources](../data-sources/README.md)
+- [Research Documents](../research/README.md)

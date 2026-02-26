@@ -55,6 +55,6 @@ This folder contains detailed architecture documentation for the Medical Knowled
 
 ## See Also
 
-- [Research Documents](../research/)
-- [Data Sources](../data-sources/)
-- [Tech Stack](./tech-stack/)
+- [Research Documents](../research/README.md)
+- [Data Sources](../data-sources/README.md)
+- [Tech Stack](../tech-stack/README.md)
