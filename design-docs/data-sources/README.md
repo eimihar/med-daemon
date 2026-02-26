@@ -13,6 +13,7 @@ This folder contains detailed documentation for each medical data source.
 | [fda-drugs.md](./fda-drugs.md) | FDA drug labels, recalls, adverse events |
 | [medlineplus.md](./medlineplus.md) | Consumer health information |
 | [guidelines.md](./guidelines.md) | Clinical practice guidelines |
+| [malaysian-sources.md](./malaysian-sources.md) | Malaysian data sources (NPRA, KKM, MaHTAS) |
 
 ---
 
@@ -27,6 +28,8 @@ This folder contains detailed documentation for each medical data source.
 | **FDA** | Drugs | Labels, recalls | openFDA |
 | **MedlinePlus** | Consumer | Patient info | Web scraping |
 | **ClinicalTrials.gov** | Trials | Clinical trial info | REST API |
+| **NPRA (Malaysia)** | Drugs | Malaysian drug registration | Web scraping |
+| **KKM/MaHTAS** | Guidelines | Malaysian clinical guidelines | Web/PDF |
 
 ### Source Priority (Evidence Level)
 
