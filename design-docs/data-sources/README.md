@@ -12,8 +12,9 @@ This folder contains detailed documentation for each medical data source.
 | [rxnorm.md](./rxnorm.md) | RxNorm drug database (names, interactions) |
 | [fda-drugs.md](./fda-drugs.md) | FDA drug labels, recalls, adverse events |
 | [medlineplus.md](./medlineplus.md) | Consumer health information |
-| [guidelines.md](./guidelines.md) | Clinical practice guidelines |
+| [guidelines.md](./guidelines.md) | Clinical practice guidelines (international) |
 | [malaysian-sources.md](./malaysian-sources.md) | Malaysian data sources (NPRA, KKM, MaHTAS) |
+| [malaysian-cpg.md](./malaysian-cpg.md) | Malaysian Clinical Practice Guidelines (MOH) |
 
 ---
 

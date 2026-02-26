@@ -29,6 +29,7 @@ A fact-based medical chat system powered by LLM that provides accurate, cited me
 - **LLM**: OpenAI GPT-4 / Claude (start), Ollama (self-hosted)
 - **Embeddings**: text-embedding-3-large
 - **Vector DB**: Chroma (dev), Pinecone (cloud), pgvector (self-hosted)
+- **Details**: See [Tech Stack](./tech-stack/) documentation
 
 ### Data Sources
 - **PubMed**: Academic literature

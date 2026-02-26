@@ -24,7 +24,7 @@ This folder contains detailed architecture documentation for the Medical Knowled
 | **API** | FastAPI (Python) |
 | **RAG Framework** | LangChain |
 | **LLM** | OpenAI GPT-4 (start), Ollama (self-hosted) |
-| **Vector DB** | pgvector (self-hosted) or Pinecone (cloud) |
+| **Vector DB** | Chroma (dev), pgvector (self-hosted), Pinecone (cloud) |
 | **Relational DB** | PostgreSQL |
 | **Cache** | Redis |
 
